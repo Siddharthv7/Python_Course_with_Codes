@@ -12,8 +12,10 @@ It is designed for beginners as well as intermediate learners who want to streng
 - Useful for students, self-learners, and interview preparation  
 
 🎯 Goal
+
 The goal of this repository is to provide a practical learning path for Python learners with ready-to-run codes, making the learning process simple and effective.
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit pull requests.
